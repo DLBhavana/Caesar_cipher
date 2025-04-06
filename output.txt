@@ -1,0 +1,13 @@
+Test Case-1:
+
+Enter the message: Coding
+Enter the shift value: 4
+Encrypted message: Gshmrk
+Decrypted message: Coding
+
+Test Case-2:
+
+Enter the message: bhlaksnj
+Enter the shift value: 5
+Encrypted message: gmqfpxso
+Decrypted message: bhlaksnj
